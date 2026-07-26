@@ -4,6 +4,10 @@
 
 #### [Understanding Large Language Model (LLM) - Under The Hood](https://www.youtube.com/playlist?list=PLUfbC589u-FSwnqsvTHXVcgmLg8UnbIy3)
 
+#### [Self Attention in transformer](https://www.youtube.com/shorts/l8_OrR9kUNw)
+
+#### Transformer...
+
 
 ***
 
